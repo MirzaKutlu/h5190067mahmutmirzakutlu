@@ -1,0 +1,89 @@
+[
+
+	{
+		"Model": "GOLF MK1",
+		"UretimYili": "1974-1983",
+		"MotorHacmi": "1.399cc",
+		"BeygirGucu": "50HP",
+		"Vites": "4 İleri Manuel Şanzuman",
+		"Agirlik": "790 KG",
+		"KapakResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/VolkswagenGolfMK1.png",
+		"KartResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/Golf1.png",
+		"Aciklama" :"Mayıs 1974’te Volkswagen, modern önden çekiş sürüşü sunan birinci nesil Golf’ü kaplumbağa modelinin halefi olarak tanıttı. Selefi ve atası kaplumağa gibi, Golf Mk1 kalıcı ve nüfuslu olacağını kanıtladı. 1974’ten beri gerçekleştirilen kesintisiz üretimiyle, Golf geniş çapta başarı yakalayan, önden çekişli kompakt (hatchback) modellerinden ilki olmayı başardı. ABD’de, Morris Mini, Honda N360 ve Fiat 128 sınırlı bir başarı elde ederken, Rabbit adıyla anılan Golf,  Honda Civic ile birlikte, tıpkı kaplumbağanın 1960’larda Falcon ve Corvair, 1970'lerde yarı  kompakt Vega ve Pinto’ya ilham kaynağı olduğu gibi, 1980’ler boyunca, Avrupa’da türemiş olan önden çekiş sürüşü sunan, Dodge Omni, Plymouth Horizon, Ford Escort ve Chevrolet Cavalier gibi Amerikan kompakt araçlarının üretilmesinin ateşleyicisi olmuştur. Kaplumbağa’nın tacını Golf’e devretmek Volkswagen’in varlığını devam ettirebilmek için hayati bir hedefti. 1970'lerin başlarında, şirket ciddi finansal krize girdi ve kaplumbağa satışları keskin bir düşüşe geçti. Su soğutmalı, önden motorlu ve arkadan itişli küçük otomobiller, kullanıcıları için fazlasıyla cazip hale gelmeye başlamıştı. Çözüm, dört alman otomobil üreticisinin (Audi, DKW, Horch ve Wanderer) birleşerek kurduğu Auto Union şirketinden geldi. Ürettikleri, gelişmiş teknoloji kullanılan, önden çekişli orta sınıf Audi sedan ile az sayıda kullanıcının ilgisini çekmişlerdi. Volkswagen 1964’te Ingolstadt’ta bulunan şirketi Daimler-Benz’den satın aldı. Audi’nin su soğutmalı motor ve önden çekişli sürüş uzmanları Volkswagen’in yeni nesli için vazgeçilmez olacaklardı.Önden çekiş sistemi, düşük ağırlıklı küçük araçlarda, daha yüksek performans ve daha geniş iç mekân imkânı sağlıyordu. Golf’te kullanılan Audi teknolojisi, Ferdinand Porsche’nin kaplumbağa modelinin üzerine inşa ettiği arkadan itişli otomobillere karşı, mühendislik konusunda avantajı tekrar Volkswagen’e kazandıracaktı.  Golf normal bir bagaj yerine dik olarak sonlanan bir arka bölüm ve hem motoru  hem de çekişi önde olan etkili bir plana sahip olacaktı ve su soğutmalı motor önde enlemesine yerleştirilecekti. Golf üzerindeki çalışmalar, Aralık 1968’de Kurt Lotz’un Volkswagen’in başına geçmesinden kısa bir süre sonra, 1969’da başlamıştır."
+	},
+	
+	{
+		"Model": "GOLF  Mk2",
+		"UretimYili": "1983-1992",
+		"MotorHacmi": "1.390cc - 1.790cc",
+		"BeygirGucu": "54 HP - 210 HP",
+		"Vites": "5 İleri Manuel Şanzuman",
+		"Agirlik": "910 KG",
+		"KapakResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/VolkswagenGolfMK2.png",
+		"KartResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/Golf2.png",
+		"Aciklama" : " Volkswagen Golf Mk2 1983 yılında başlayıp 1992 yılına kadar (Almanya’da) devam eden üretimiyle Volkswagen için Mk1’in yerini alan lider model olmuştur. Mk1 modeline oranla az da olsa büyüyen Mk2’nin, tekerlek mesafesi 75 mm, uzunluğu 180 mm, genişliği 55 mm ve yüksekliği 5 mm artarken, ağırlığı ise 120 kg kadar daha fazlalaştı. Önceki tasarım, VW tasarım direktörü Schafer tarafından geliştirilmiş olsa da, Giugiaro’nun tasarladığı Mk1’in genel hatları korunmuş ancak Mk2 kesinlikle daha yuvarlak hatlara sahip olmuştur. İkinci nesil Golf yaklaşık 6,3 milyon adet üretilmiştir."
+	},
+
+	{
+		"Model": "GOLF  III",
+		"UretimYili": "1991-1998",
+		"MotorHacmi": "1.420cc",
+		"BeygirGucu": "60HP",
+		"Vites": "5 İleri Manuel Şanzuman",
+		"Agirlik": "1.160  KG",
+		"KapakResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/VolkswagenGolf3.png",
+		"KartResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/Golf3.png",
+		"Aciklama" : "Volkswagen Golf'ün üçüncü nesli olan Golf III, ilk kez Kasım 1991'de tanıtıldı. Kuzey Amerika'da ise 1993 baharında tanıtıldı. Kuzey Amerika'daki gecikmenin nedeni, Volkswagen'in Amerikalı ve Kanadalı müşterilerine Golf III otomobillerini (ve Jetta III'ü) Puebla, Meksika'daki Volkswagen fabrikalarından zamanında ulaştıramamasıdır. Kalite kontrol problemleri, Golf ve Jetta'nın Meksika'dan Amerika'ya zamanında ulaşmasını engelledi. Üçüncü nesil Golf ve Jetta, San Diego'da ve California bölgesinde 1993 model, daha sonra Kuzey Amerika'da 1994 model olarak satışa sunuldu. Bu neslin üç kapılı Golfleri genellikle Kuzey Amerika'da GTI formunda satışa sunuldu. Bir önceki Golf neslinden ayrılmak için, 1993'ten 1995'e kadar Kuzey Amerika'da Golfler \"Golf III\" olarak adlandırıldılar.European Car of the Year 1992 (Avrupada Yılın Otomobili) ödülünü kazanmıştır.Volkswagen Golf'ün Variant(VAN) ve Syncro(4x4) modelleri de bu seride üretilmişdir."
+		
+		
+	},
+	
+
+	{
+		"Model": "GOLF IV",
+		"UretimYili": "1997-2003",
+		"MotorHacmi": "1.590cc",
+		"BeygirGucu": "101 HP",
+		"Vites": "5 İleri Manuel Şanzuman",
+		"Agirlik": "1400 KG",
+		"KapakResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/VolkswagenGolf4.png",
+		"KartResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/Golf4.png",
+		"Aciklama" : "1997'de tanıtılmış ve piyasaya sürülmüştür. Üretildiği dönemde Avrupa'da en çok satılan otomobil haline geldi. Golf 4 modelinin üretimi 2004 yılına kadar devam etti. Bu modelde yuvarlatılmış farlar, gövde rengi tampon ve yenilenen iç mekan göze çarpmıştır."
+	},
+
+	{
+		"Model": "GOLF V",
+		"UretimYili": "2003-2009",
+		"MotorHacmi": "1.998cc",
+		"BeygirGucu": "150 HP",
+		"Vites": "6 İleri Manuel Şanzuman",
+		"Agirlik": "1550 KG",
+		"KapakResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/VolkswagenGolf5.png",
+		"KartResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/Golf5.png",
+		"Aciklama" : "Beşinci nesil Golf ilk kez Mayıs 2003'te Frankfurt Motor Show'da tanıtıldı ve satışına Avrupa'da bir ay sonra başlandı. Ocak 2006'ya kadar ABD'de satışa sunulmadı. 2006 yılında ABD'de satışına ilk neslinde olduğu gibi Rabbit ismi ile başlanmıştır. Yeni Golf'ün tanıtımı için, Wolfsburg, bir haftalığına \"Golfsburg\" olarak anıldı."
+		
+	},
+	{
+		"Model": "GOLF VI",
+		"UretimYili": "2009-2012",
+		"MotorHacmi": "1.390cc",
+		"BeygirGucu": "110 HP",
+		"Vites": "7 İleri Otomatik Şanzuman",
+		"Agirlik": "1420 KG",
+		"KapakResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/VolkswagenGolf6.png",
+		"KartResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/Golf6.png",
+		"Aciklama" : "Tasarımı Walter'de Silva'nın yaptığı 6.nesil Golf, bir önceki A tipi PQ35 platformu üzerinde üretilmiştir. İlk olarak 2008 yılı Ekim ayında Paris Otomotiv Fuarında tanıtıldı. Volkswagen resmi açıklanması öncesinde, 6 Ağustos 2008 tarihinde resim ve bilgi yayımladı. Araç, 2008 yılı kış aylarında Avrupa pazarında piyasaya sürüldü. Büyük yatırımlar bir önceki model ile karşılaştırıldığında lansmanında yaklaşık% 20 verimliliği artırma ve üretim verimliliğini elde etmiştir. 2009 yılı World Car Of The Year, Euro NCAP Safest Car of the Year ödüllerini almıştır. Almanya haricinde Çin, Endonezya ve Malezya'da üretilmektedir. Ancak bu araca dair bazı söylentiler vardır. Bunlardan biri ve en önemlisi MK5 versiyonuyla (Golf 5) kapı çerçeveleri, yan cam , çatı ve dingil mesafesi de dahil olmak üzere aynı olduğudur. Bu Yüzden bu yeni versiyonun tamamiyle yeni bir araba olmadığı söylenmektedir."
+		
+	},
+	{
+	    "Model": "GOLF VII",
+		"UretimYili": "2012-Günümüz",
+		"MotorHacmi": "1.398cc",
+		"BeygirGucu": "140 HP",
+		"Vites": "8 İleri Otomatik Şanzuman",
+		"Agirlik": "1333  KG",
+		"KapakResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/VolkswagenGolf7.png",
+		"KartResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/Golf7.png",
+		"Aciklama" : "7.Jenerasyon Golf 2012 yılında Paris Auto Show'da tanıtılmıştır. Golf VII, Audi A3, SEAT León ve Skoda Octavia ile paylaşılan yeni Typ 5G adlı MQB platformunu kullanmaktadır. Golf VI'dan 100 kg daha hafif ve biraz daha büyüktür. Tasarım çizgileri sertleştirilmiş, iç mekan tamamıyla yenilenmiştir. 2013 yılında \"World Car Of The Year\" ve \"World Car Awards\" ödüllerinde Yılın Otomobili ödülünü almıştır."
+	}
+]
