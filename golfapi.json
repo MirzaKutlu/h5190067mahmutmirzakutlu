@@ -16,7 +16,7 @@
 		"Model": "GOLF  Mk2",
 		"UretimYili": "1983-1992",
 		"MotorHacmi": "1.390cc - 1.790cc",
-		"BeygirGucu": "54 HP",
+		"BeygirGucu": "54 HP - 210 HP",
 		"Vites": "5 İleri Manuel Şanzuman",
 		"Agirlik": "910 KG",
 		"KapakResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/VolkswagenGolfMK2.png",
@@ -62,5 +62,28 @@
 		"KartResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/Golf5.png",
 		"Aciklama" : "Beşinci nesil Golf ilk kez Mayıs 2003'te Frankfurt Motor Show'da tanıtıldı ve satışına Avrupa'da bir ay sonra başlandı. Ocak 2006'ya kadar ABD'de satışa sunulmadı. 2006 yılında ABD'de satışına ilk neslinde olduğu gibi Rabbit ismi ile başlanmıştır. Yeni Golf'ün tanıtımı için, Wolfsburg, bir haftalığına \"Golfsburg\" olarak anıldı."
 		
+	},
+	{
+		"Model": "GOLF VI",
+		"UretimYili": "2009-2012",
+		"MotorHacmi": "1.390cc",
+		"BeygirGucu": "110 HP",
+		"Vites": "7 İleri Otomatik Şanzuman",
+		"Agirlik": "1420 KG",
+		"KapakResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/VolkswagenGolf6.png",
+		"KartResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/Golf6.png",
+		"Aciklama" : "Tasarımı Walter'de Silva'nın yaptığı 6.nesil Golf, bir önceki A tipi PQ35 platformu üzerinde üretilmiştir. İlk olarak 2008 yılı Ekim ayında Paris Otomotiv Fuarında tanıtıldı. Volkswagen resmi açıklanması öncesinde, 6 Ağustos 2008 tarihinde resim ve bilgi yayımladı. Araç, 2008 yılı kış aylarında Avrupa pazarında piyasaya sürüldü. Büyük yatırımlar bir önceki model ile karşılaştırıldığında lansmanında yaklaşık% 20 verimliliği artırma ve üretim verimliliğini elde etmiştir. 2009 yılı World Car Of The Year, Euro NCAP Safest Car of the Year ödüllerini almıştır. Almanya haricinde Çin, Endonezya ve Malezya'da üretilmektedir. Ancak bu araca dair bazı söylentiler vardır. Bunlardan biri ve en önemlisi MK5 versiyonuyla (Golf 5) kapı çerçeveleri, yan cam , çatı ve dingil mesafesi de dahil olmak üzere aynı olduğudur. Bu Yüzden bu yeni versiyonun tamamiyle yeni bir araba olmadığı söylenmektedir."
+		
+	},
+	{
+	    "Model": "GOLF VII",
+		"UretimYili": "2012-Günümüz",
+		"MotorHacmi": "1.398cc",
+		"BeygirGucu": "140 HP",
+		"Vites": "8 İleri Otomatik Şanzuman",
+		"Agirlik": "1333  KG",
+		"KapakResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/VolkswagenGolf7.png",
+		"KartResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/Golf7.png",
+		"Aciklama" : "7.Jenerasyon Golf 2012 yılında Paris Auto Show'da tanıtılmıştır. Golf VII, Audi A3, SEAT León ve Skoda Octavia ile paylaşılan yeni Typ 5G adlı MQB platformunu kullanmaktadır. Golf VI'dan 100 kg daha hafif ve biraz daha büyüktür. Tasarım çizgileri sertleştirilmiş, iç mekan tamamıyla yenilenmiştir. 2013 yılında \"World Car Of The Year\" ve \"World Car Awards\" ödüllerinde Yılın Otomobili ödülünü almıştır."
 	}
 ]
