@@ -85,5 +85,17 @@
 		"KapakResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/VolkswagenGolf7.png",
 		"KartResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/Golf7.png",
 		"Aciklama" : "7.Jenerasyon Golf 2012 yılında Paris Auto Show'da tanıtılmıştır. Golf VII, Audi A3, SEAT León ve Skoda Octavia ile paylaşılan yeni Typ 5G adlı MQB platformunu kullanmaktadır. Golf VI'dan 100 kg daha hafif ve biraz daha büyüktür. Tasarım çizgileri sertleştirilmiş, iç mekan tamamıyla yenilenmiştir. 2013 yılında \"World Car Of The Year\" ve \"World Car Awards\" ödüllerinde Yılın Otomobili ödülünü almıştır."
+	},
+	
+	{
+	    "Model": "GOLF VIII",
+		"UretimYili": "2012-Günümüz",
+		"MotorHacmi": "1.398cc",
+		"BeygirGucu": "140 HP",
+		"Vites": "8 İleri Otomatik Şanzuman",
+		"Agirlik": "1333  KG",
+		"KapakResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/VolkswagenGolf7.png",
+		"KartResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/Golf7.png",
+		"Aciklama" : "7.Jenerasyon Golf 2012 yılında Paris Auto Show'da tanıtılmıştır. Golf VII, Audi A3, SEAT León ve Skoda Octavia ile paylaşılan yeni Typ 5G adlı MQB platformunu kullanmaktadır. Golf VI'dan 100 kg daha hafif ve biraz daha büyüktür. Tasarım çizgileri sertleştirilmiş, iç mekan tamamıyla yenilenmiştir. 2013 yılında \"World Car Of The Year\" ve \"World Car Awards\" ödüllerinde Yılın Otomobili ödülünü almıştır."
 	}
 ]
