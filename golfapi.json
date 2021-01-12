@@ -80,7 +80,7 @@
 		"UretimYili": "2012-2017",
 		"MotorHacmi": "1.398cc",
 		"BeygirGucu": "140 HP",
-		"Vites": "8 İleri Otomatik Şanzuman",
+		"Vites": "7 İleri Otomatik Şanzuman",
 		"Agirlik": "1333  KG",
 		"KapakResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/VolkswagenGolf7.png",
 		"KartResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/Golf7.png",
@@ -96,5 +96,16 @@
 		"KapakResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/VolkswagenGolf75.jpg",
 		"KartResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/Golf75.jpg",
 		"Aciklama" : "Kısa süre aralığında üretilmiş olan Golf 7 serisinin makyajlı versiyonudur. Daha yeni nesil motor ile üretilip piyasaya sürülmüş olan Golf 7.5 rakip firmalara nazaran yakıt tüketimi ve performansının yanı sıra düşük motor hacmi ile düşük vergi sınıfına girdiği için Türkiye içerisinde çok popülerdir."
+	},
+	{
+	    "Model": "GOLF VIII",
+		"UretimYili": "2020-Günümüz",
+		"MotorHacmi": "1.548cc",
+		"BeygirGucu": "148 HP",
+		"Vites": "7 İleri Otomatik Şanzuman",
+		"Agirlik": "1320  KG",
+		"KapakResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/VolkswagenGolf8.jpg",
+		"KartResim": "https://raw.githubusercontent.com/MirzaKutlu/h5190067mahmutmirzakutlu/main/Golf8.jpg",
+		"Aciklama" : "Volkswagen CEO'su Herbert Diess, Almanya'nın Wolfsburg'daki Volkswagen tesisinde yeni Golf 8'i tanıttı. Şimdiye kadar 35 milyondan fazla satan modelde 11 farklı motor seçeneği içinde üçü hafif, ikisi plug-in olmak üzere 5 hibrit seçeneği bulunuyor. Volkswagen Golf 8, birbirinden farklı yeni teknolojik donanımıyla adeta sınıfının en iyisi! IQ Drive yardım sistemleri ve Seyahat Asistanı ile sürüş deneyiminizi en üst seviyeye çıkartıyor. Yeni Golf, adaptif cruise control sistemi (CC) trafik sıkışıklığını tanıyan ve bunu öngören ilk Volkswagen modelidir. Bu sistem Golf için standart olan Car2X teknolojisiyle yapılmaktadır. Sistem karayolu üzerindeki trafik sıkışıklığını fark eder etmez güvensiz manevraları azaltarak hızını ayarlamaktadır. Volkswagen Golf, hiç olmadığı kadar fazla seçenek sunmaktadır. Yeni eTSI hafif hibrit, üç farklı DGS otomatik versiyonu ve sevilen 1.0, 1.5 TSI benzinli motorları 48V teknolojisiyle birleşiyor. Yeni Golf aynı zamanda 150 kW / 204 hp’lik bir eHybrid plug-in hibrid ya da önümüzdeki yaz 180 kW / 245 hp’lik ekstra güçlü bir GTE olarak karşımıza çıkacak. Yeni TDI versiyonları öncekilerden %17 daha düşük CO2 emisyonuna sahip olup daha düşük NOx emisyonları için en yeni AdBlue teknolojisiyle donatılmıştır. 2020 Volkswagen Golf 8 modeli, Türkiye Volkswagen ve yetkili satış bayilerinde satışa sunuldu. Modelin Sıfır fiyatı 161.500 bin TL’den başlarken full paketi 241.900 TL’ye kadar çıkıyor."
 	}
 ]
